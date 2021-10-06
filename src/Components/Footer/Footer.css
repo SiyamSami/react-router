@@ -1,0 +1,18 @@
+.footer-main{
+    color: white;
+    background-color: black;
+    position: relative;
+    padding: 2em;
+    /* bottom: 100%; */
+    /* top: 100vh; */
+    top: auto;
+    width: 100%;
+}
+
+.list-text{
+    list-style: none;
+    font-weight: 700;
+}
+ul>li{
+    margin-bottom: 10px;
+}
